@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".paymentmethod">
+    <Button
+        android:id="@+id/btnokeditaboutus2"
+        android:layout_width="309dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center"
+        android:layout_margin="35dp"
+        android:background="@drawable/custom"
+        android:backgroundTint="@color/white"
+        android:elevation="7dp"
+        android:text="Cancel"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/btnokeditaboutus"
+        android:layout_width="309dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center"
+        android:layout_margin="35dp"
+        android:background="@drawable/custom"
+        android:backgroundTint="@color/Orange"
+        android:elevation="7dp"
+        android:text="OK"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.885" />
+
+
+    <RadioGroup
+        android:id="@+id/radiogrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/btnokeditaboutus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3">
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="265dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="52dp"
+            android:buttonTint="@color/Orange"
+            android:elevation="18dp"
+            android:text="Payment 1"
+            android:textSize="40dp" />
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="265dp"
+            android:layout_height="65dp"
+            android:buttonTint="@color/Orange"
+            android:elevation="18dp"
+            android:text="Payment 2"
+            android:textSize="40dp" />
+
+        <RadioButton
+            android:id="@+id/radioButton5"
+            android:layout_width="265dp"
+            android:layout_height="65dp"
+            android:buttonTint="@color/Orange"
+            android:elevation="18dp"
+            android:text="Payment 3"
+            android:textSize="40dp" />
+
+        <RadioButton
+            android:id="@+id/radioButton6"
+            android:layout_width="265dp"
+            android:layout_height="65dp"
+            android:buttonTint="@color/Orange"
+            android:elevation="18dp"
+            android:text="Payment 4"
+            android:textSize="40dp" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="302dp"
+        android:layout_height="184dp"
+        android:layout_marginTop="32dp"
+        android:text="Choose Payment Method"
+        android:textColor="@color/black"
+        android:textSize="42dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.467"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

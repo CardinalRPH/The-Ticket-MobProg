@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "264086222476",
+    "firebase_url": "https://the-ticket-3f573-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "the-ticket-3f573",
+    "storage_bucket": "the-ticket-3f573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264086222476:android:1693fa41b5aadd45f3ada9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264086222476-2e2n3ik0jms2jjsocedd6nsp5l8fku5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ehMlTJJLb2U1NjlBNzxGhqAu0CqIlUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264086222476-2e2n3ik0jms2jjsocedd6nsp5l8fku5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264086222476:android:d111fd31bb337e76f3ada9",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264086222476-2e2n3ik0jms2jjsocedd6nsp5l8fku5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ehMlTJJLb2U1NjlBNzxGhqAu0CqIlUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264086222476-2e2n3ik0jms2jjsocedd6nsp5l8fku5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264086222476:android:34fa150194c11057f3ada9",
+        "android_client_info": {
+          "package_name": "com.example.theticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264086222476-2e2n3ik0jms2jjsocedd6nsp5l8fku5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ehMlTJJLb2U1NjlBNzxGhqAu0CqIlUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264086222476-2e2n3ik0jms2jjsocedd6nsp5l8fku5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

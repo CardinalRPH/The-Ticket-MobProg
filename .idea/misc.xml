@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Backup/TheTicketFail/TheTicket/app/src/main/res/layout/activity_now_show.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1535" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/custom.xml" value="0.165" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/custom_circle.xml" value="0.165" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/custom_frame.xml" value="0.1535" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_airplane_ticket_24.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_confirmation_number_24.xml" value="0.1195" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.187" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1535" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1925" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_movie_svgrepo_com.xml" value="0.1535" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1535" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/account_button_info.xml" value="0.4" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/account_info.xml" value="0.4" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_aboutus.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_create_account_success.xml" value="0.12360688956433637" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_date_view.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_donepayment.xml" value="0.12" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_editaccount.xml" value="0.25052083333333336" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_editprofilepicture.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_location.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_now_show.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_now_show_detail.xml" value="0.152" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_pass_change.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_paymentmethod.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_primary_menu.xml" value="0.22456140350877193" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_primarymenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_primaryx_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_seat_res.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_seatchs.xml" value="0.264" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_signin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_splash_screen.xml" value="0.10277777777777777" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_summary.xml" value="0.264" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_ticket_code.xml" value="0.536" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_ticket_code_off.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_time_res.xml" value="0.264" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_up_show_detail.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_upload_photo_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/activity_upshow.xml" value="0.24010416666666667" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/custom_grid_layout.xml" value="0.264" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/custom_grid_layout2.xml" value="0.253125" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_active_list.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_dashboard.xml" value="0.10277777777777777" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_home.xml" value="0.152" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_home2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_inactive_list.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/fragment_ticket.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/harifilm.xml" value="0.264" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/item_hm_ns.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/list_item_activelist.xml" value="0.253125" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/list_item_date.xml" value="0.152" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/list_item_inactivelist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/list_item_time.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/lokasi_list.xml" value="0.25317028985507245" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/seat_layout.xml" value="0.1" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/layout/settings_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Perkuliahan/Kelas/Smester 4/Mobile Programing/UAS/Mobile/TheTicket/app/src/main/res/menu/tck_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2435" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable/custom.xml" value="0.2435" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2435" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.152" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.152" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable/ic_launcher_background.xml" value="0.152" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/drawable/ic_movie_svgrepo_com.xml" value="0.2435" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/layout/activity_create_account_success.xml" value="0.264" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/layout/activity_signin.xml" value="0.264" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/Users/Febrian Rizky P/TheTicket/app/src/main/res/layout/activity_splash_screen.xml" value="0.19972826086956522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
